@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answers": [ "Berlin", "Madrid", "Paris", "Rome" ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answers": [ "Venus", "Mars", "Jupiter", "Saturn" ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "answers": [ "Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain" ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the primary scripting language used in Unity?",
+      "answers": [ "Java", "C++", "C#", "Python" ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "answers": [ "1912", "1920", "1935", "1941" ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the currency of Brazil?",
+      "answers": [ "Peso", "Euro", "Yen", "Real" ],
+      "correctAnswer": 4
+    }
+  ]
+}
